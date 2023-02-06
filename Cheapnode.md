@@ -4,7 +4,7 @@ With LEB8's around the corner I thought I'd write up a cheap solution for home s
 
 First I picked up this used MiniPC from Ebay:
 
-![HPelitedesk800mini](/../photos/800-g32.jpg)
+![HPelitedesk800mini]([/../photos/800-g32.jpg](https://github.com/trevhub/rocketpool/raw/photos/800-g32.jpg))
 
 ### **HP EliteDesk 800 G3 Mini** ### 
 ### [Review with photos](https://www.servethehome.com/hp-elitedesk-800-g3-mini-ce-review-project-tinyminimicro/) ###
