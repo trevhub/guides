@@ -43,7 +43,7 @@ I went with Cyberpowers Powerpanel.
 https://www.cyberpowersystems.com/product/software/power-panel-personal/powerpanel-for-linux/
 
 choose your install file.
-![powerpanel](/../photos/powerpanel.png)
+![powerpanel](https://github.com/trevhub/rocketpool/blob/b245bf1c5f5521c3991cfa17dadb3f8456bc3d8d/powerpanel.png)
 
 Log into your staking machine and download the `*deb` file replacing `[CORRECT URL]` with the address
 
