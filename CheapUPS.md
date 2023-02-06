@@ -30,7 +30,7 @@ Total Load = 48W
 48W works out to 19% load on the CP425SLG and will give me 36 minutes of uptime. ([or 8% Load 3h 13 minutes on the $599 APC SMC1500C](https://www.apc.com/us/en/product/SMC1500C/apc-smartups-c-line-interactive-1440va-tower-120v-8x-nema-515r-outlets-smartconnect-port-usb-and-serial-communication-avr-graphic-lcd/))
 
 The connections:
-![ups connections](/../photos/UPSconnections.png)
+![ups connections](https://github.com/trevhub/rocketpool/blob/b245bf1c5f5521c3991cfa17dadb3f8456bc3d8d/UPSconnections.png)
 The left side of the CP425SLG is for *surge protection only* and doesnt run on battery power during an outage, I have my TV, Stereo, Laptop plugged in to those outlets. 
 
 ## **Installing the Cyberpower software on your node:** ##
