@@ -4,7 +4,7 @@ With LEB8's around the corner I thought I'd write up a cheap solution for home s
 
 First I picked up this used MiniPC from Ebay:
 
-![HPelitedesk800mini]([/../photos/800-g32.jpg](https://github.com/trevhub/rocketpool/raw/photos/800-g32.jpg))
+![HPelitedesk800mini](https://github.com/trevhub/rocketpool/raw/photos/800-g32.jpg)
 
 ### **HP EliteDesk 800 G3 Mini** ### 
 ### [Review with photos](https://www.servethehome.com/hp-elitedesk-800-g3-mini-ce-review-project-tinyminimicro/) ###
@@ -48,14 +48,14 @@ Due to the data transfer demands of running a rocketpool node I went with a suit
 
 
 
-![RAM and NVMe installed](/../photos/IMG_3583.png)<sub> The fan unit flips up easily to install the Memory. SSD cradle was removed and there is clearance for a NVMe Headsink. </sub>
+![RAM and NVMe installed](https://github.com/trevhub/rocketpool/raw/photos/IMG_3583.png)<sub> The fan unit flips up easily to install the Memory. SSD cradle was removed and there is clearance for a NVMe Headsink. </sub>
 
 
 ## **Performance** ##
 I installed Debian 11 (bullseye) and Rocketpool. After ETH1/ETH2 Sync completed I restored my wallet.
 For a total of approximately $330.00USD This is the performance you can expect: 
 
-![Grafana Dashboard](/../photos/elitedesk800.png)
+![Grafana Dashboard](https://github.com/trevhub/rocketpool/raw/photos/elitedesk800.png)
 
 
 Running Lighthouse/Nethermind:
