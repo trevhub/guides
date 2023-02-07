@@ -24,10 +24,10 @@ A 255W capacity is more than enough for my needs.
 ```
 staking machine (13W) 
 fiber modem (25W) 
-router (10W) 
-Total Load = 48W
+
+Total Load = 38W
 ```
-48W works out to 19% load on the CP425SLG and will give me 36 minutes of uptime. ([or 8% Load 3h 13 minutes on the $599 APC SMC1500C](https://www.apc.com/us/en/product/SMC1500C/apc-smartups-c-line-interactive-1440va-tower-120v-8x-nema-515r-outlets-smartconnect-port-usb-and-serial-communication-avr-graphic-lcd/))
+38W works out to 15% load on the CP425SLG and will give me 36 minutes of uptime. ([or 8% Load 3h 13 minutes on the $599 APC SMC1500C](https://www.apc.com/us/en/product/SMC1500C/apc-smartups-c-line-interactive-1440va-tower-120v-8x-nema-515r-outlets-smartconnect-port-usb-and-serial-communication-avr-graphic-lcd/))
 
 The connections:
 ![ups connections](https://github.com/trevhub/rocketpool/blob/b245bf1c5f5521c3991cfa17dadb3f8456bc3d8d/UPSconnections.png)
@@ -120,8 +120,8 @@ The UPS information shows as following:
 		Utility Voltage.............. 116 V
 		Output Voltage............... 116 V
 		Battery Capacity............. 100 %
-		Remaining Runtime............ 49 min.
-		Load......................... 45 Watt(18 %)
+		Remaining Runtime............ 57 min.
+		Load......................... 38 Watt(15 %)
 		Line Interaction............. None
 		Test Result.................. Unknown
 		Last Power Event............. None
