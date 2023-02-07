@@ -27,7 +27,7 @@ fiber modem (25W)
 
 Total Load = 38W
 ```
-38W works out to 15% load on the CP425SLG and will give me 36 minutes of uptime. ([or 8% Load 3h 13 minutes on the $599 APC SMC1500C](https://www.apc.com/us/en/product/SMC1500C/apc-smartups-c-line-interactive-1440va-tower-120v-8x-nema-515r-outlets-smartconnect-port-usb-and-serial-communication-avr-graphic-lcd/))
+38W works out to 15% load on the CP425SLG and will give me 36 minutes of uptime. ([or 4% Load 6h 1minute on the $759 APC Smart-UPS 1500VA](https://www.apc.com/us/en/product/SMT1500C/apc-smartups-line-interactive-1500va-tower-120v-8x-nema-515r-outlets-smartconnect-port+smartslot-avr-lcd/))
 
 The connections:
 ![ups connections](https://github.com/trevhub/rocketpool/blob/b245bf1c5f5521c3991cfa17dadb3f8456bc3d8d/UPSconnections.png)
