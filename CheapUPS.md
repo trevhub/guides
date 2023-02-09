@@ -35,7 +35,7 @@ The side of the CP425SLG labeled **SURGE** is for *surge protection only* and do
 
 ## **Installing the Cyberpower software on your node:** ##
 
-My options were **[Cyberpowers PowerPanel](https://www.cyberpowersystems.com/product/software/power-panel-personal/powerpanel-for-linux/)** to configure and monitor my UPS or **[Network UPS Tools](https://networkupstools.org/)**. NUT is a free and open source UPS program licensed under the terms of GNU Public License (GPL). NUT works with 170 different manufacturers, and several thousands of models. I went with PowerPanel.
+My options were **[Cyberpowers PowerPanel® Personal](https://www.cyberpowersystems.com/product/software/power-panel-personal/powerpanel-for-linux/)** to configure and monitor my UPS or **[Network UPS Tools](https://networkupstools.org/)**. NUT is a free and open source UPS program licensed under the terms of GNU Public License (GPL). NUT works with 170 different manufacturers, and several thousands of models. I went with PowerPanel.
 
 ### *Security Note: You are about to install software on your staking machine, always proceed with caution and verify URLs.* ###
 
