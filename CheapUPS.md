@@ -129,7 +129,7 @@ The UPS information shows as following:
 
 ## **AC Power Recovery BIOS settings** ##
 
-After the power is restored in order for your NUC or equilivant to *automatically power on* without having to physically press the power button you must change the following setting in the BIOS. These steps will be different depending on your machine.
+After the power is restored in order for your NUC or equilivant to *automatically power on* without having to physically press the power button you must change the following setting in the BIOS. This requires a monitor and keyboard connected during the boot sequence. These steps will be different depending on your machine. Common keys to enter the BIOS are DEL, F10, F12 and F1
 
 The example below is for an Intel NUC:
 ```
