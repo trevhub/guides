@@ -31,7 +31,7 @@ Total Load = 38W
 
 The connections:
 ![ups connections](https://github.com/trevhub/rocketpool/blob/b245bf1c5f5521c3991cfa17dadb3f8456bc3d8d/UPSconnections.png)
-The left side of the CP425SLG is for *surge protection only* and doesnt run on battery power during an outage, I have my TV, Stereo, Laptop plugged in to those outlets. 
+The side of the CP425SLG labeled **SURGE** is for *surge protection only* and doesnt run on battery power during an outage, I have my TV, Stereo, Laptop plugged in to those outlets. 
 
 ## **Installing the Cyberpower software on your node:** ##
 
