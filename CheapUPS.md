@@ -98,7 +98,7 @@ Here you can set at what percentage of battery the shutdown signal will be sent 
 
 I turn the alarm off (I'll notice the power has gone out if I am home, if not I'll get beaconcha.in notifications that my validator is offline)
 
-`enable-alarm = off`
+`enable-alarm = no`
 
 You can also enable email notifications. The PowerPanel user manual is on the same downloads page as the install file.
 
