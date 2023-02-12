@@ -71,7 +71,7 @@ SSD Latency under 6ms
 I/O Wait time under 45ms 
 ```
 
-Add NVMe Temp to your gradana dashboard following this [guide by Patches](https://gist.github.com/jshufro/65160a680076224d0294d1d6f1a0fa97)
+Add NVMe Temp to your grafana dashboard following this [guide by Patches](https://gist.github.com/jshufro/65160a680076224d0294d1d6f1a0fa97)
 
 
 
