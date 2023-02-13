@@ -1,4 +1,4 @@
-# Run a Rocketpool node on the cheap by going used. ~$330USD #
+# Run a Rocketpool node on the cheap by going used. The 'Poor-teus'. ~$330USD #
 With LEB8's around the corner I thought I'd write up a cheap solution for home staking hardware. I’ll go over price and performance numbers. Great for those on a budget, or for people looking for a testnet/fallback machine.
 
 
