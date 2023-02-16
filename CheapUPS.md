@@ -141,6 +141,6 @@ Press F10 save changes and exit BIOS.
 ```
 
 ### **Conclusion:** ###
-With the following in place a power outage will drain the UPS to 35%, at that point a shutdown signal will be send to your staking machine turning it off, modem will stay on draining the rest of the power. When power is restored the staking machine will automatically turn on, sync to the network and resume.
+With the following in place a power outage will drain the UPS to 35%, at that point a shutdown signal will be sent to your staking machine turning it off, modem will stay on draining the rest of the power. When power is restored the staking machine will automatically turn on, sync to the network and resume.
 
 Trevorn.eth
