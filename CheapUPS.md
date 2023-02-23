@@ -102,6 +102,8 @@ I turn the alarm off (I'll notice the power has gone out if I am home, if not I'
 
 You can also enable email notifications. The PowerPanel user manual is on the same downloads page as the install file.
 
+To make the changes take effect:
+`/etc/init.d/pwrstatd restart`
 
 `sudo pwrstat -status` Should show an output like this. 
 
