@@ -63,7 +63,7 @@ Running Lighthouse/Nethermind:
 IOPS Read = 109K (recommended min. 15k for Rocketpool)
 IOPS Write = 36.4K (recommended min. 5k for Rocketpool)
 CPU load averaging under 40%
-Measured Avg Power over 24hr period: 13.05W 
+Measured Avg Power over 1month period: 13.25W
 RAM usage is 22GB (note: running nethermind)
 CPU Temperature under 40C
 NVMe Temperature mid 40’s
