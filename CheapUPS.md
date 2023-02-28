@@ -45,7 +45,7 @@ https://www.cyberpowersystems.com/product/software/power-panel-personal/powerpan
 choose your install file.
 ![powerpanel](https://github.com/trevhub/rocketpool/blob/b245bf1c5f5521c3991cfa17dadb3f8456bc3d8d/powerpanel.png)
 
-Log into your staking machine and download the `*deb` file replacing `[CORRECT URL]` with the address
+Log into your staking machine and download the `.deb` file replacing `[CORRECT URL]` with the address
 
 `curl -O https://[CORRECT URL]/PPL_64bit_v1.4.1.deb`
 
