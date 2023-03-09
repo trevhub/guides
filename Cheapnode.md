@@ -1,4 +1,4 @@
-# Run a Rocketpool node on the cheap by going used. ~$330USD #
+# Run a Rocketpool node on the cheap by going used. $300USD #
 With LEB8's around the corner I thought I'd write up a cheap solution for home staking hardware. I’ll go over price and performance numbers. Great for those on a budget, or for people looking for a testnet/fallback machine.
 
 
@@ -40,7 +40,7 @@ Due to the data transfer demands of running a rocketpool node I went with a suit
 
 
 **Samsung 970 evo plus 2TB PCIe Gen 3.0 x4 NVMe 1.3**
-### **NVMe Price: $159.99USD** ###
+### **NVMe Price: $129.99USD** ###
 
 
 
