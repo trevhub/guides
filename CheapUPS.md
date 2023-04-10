@@ -100,6 +100,10 @@ I turn the alarm off (I'll notice the power has gone out if I am home, if not I'
 
 `enable-alarm = no`
 
+Additionally, the amount of time taken for the UPS itself to shutdown (along with everything else powered by it) after a Battery Low Event can be modified (In seconds)
+
+`shutdown-sustain = 300`
+
 You can also enable email notifications. The PowerPanel user manual is on the same downloads page as the install file.
 
 To make the changes take effect:
@@ -131,7 +135,7 @@ The UPS information shows as following:
 
 ## **AC Power Recovery BIOS settings** ##
 
-After the power is restored in order for your NUC or equilivant to *automatically power on* without having to physically press the power button you must change the following setting in the BIOS. This requires a monitor and keyboard connected during the boot sequence. These steps will be different depending on your machine. Common keys to enter the BIOS are DEL, F10, F12 and F1
+After the power is restored in order for your NUC or equivilant to *automatically power on* without having to physically press the power button you must change the following setting in the BIOS. This requires a monitor and keyboard connected during the boot sequence. These steps will be different depending on your machine. Common keys to enter the BIOS are DEL, F10, F12 and F1
 
 The example below is for an Intel NUC:
 ```
@@ -141,8 +145,9 @@ Go to the Power > Secondary Power Settings menu.
 Set the option for "After Power Failure" to "Power On".
 Press F10 save changes and exit BIOS.
 ```
+Note: a full power down of your UPS (the timing of which is controlled by the above mentioned variable `shutdown-sustain`) *may* be required for your NUC to actually automatically power on when power is restored to your UPS. If you do not require your UPS to shutdown after a certain amount of time, `turn-ups-off` can be changed to `yes`.
 
 ### **Conclusion:** ###
-With the following in place a power outage will drain the UPS to 35%, at that point a shutdown signal will be sent to your staking machine turning it off, any other devices plugged in to the battery powered plugs (such as a modem) will stay on draining the rest of the battery power to 0%. When power is restored the staking machine will automatically turn on, sync to the network, and resume.
+With the following in place a power outage will drain the UPS to 35%, at that point a shutdown signal will be sent to your staking machine turning it off, any other devices plugged in to the battery powered plugs (such as a modem) will stay on for 300 seconds at which point the entire UPS will turn off. When power is restored the staking machine will automatically turn on, sync to the network, and resume.
 
 Trevorn.eth
