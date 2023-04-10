@@ -145,9 +145,9 @@ Go to the Power > Secondary Power Settings menu.
 Set the option for "After Power Failure" to "Power On".
 Press F10 save changes and exit BIOS.
 ```
-Note: a full power down of your UPS (the timing of which is controlled by the above mentioned variable `shutdown-sustain`) *may* be required for your NUC to actually automatically power on when power is restored to your UPS. If you do not require your UPS to shutdown after a certain amount of time, `turn-ups-off` can be changed to `yes`.
+Note: a full power down of your UPS (the timing of which is controlled by the above mentioned variable `shutdown-sustain`) *may* be required for your staking hardware to actually automatically power on when power is restored to your UPS. If you do not require your UPS to shutdown after a certain amount of time, `turn-ups-off` can be changed to `no`. *However*, this is not recommended and should be tested to ensure that your staking hardware actually powers back up once power is restored to the UPS.
 
 ### **Conclusion:** ###
-With the following in place a power outage will drain the UPS to 35%, at that point a shutdown signal will be sent to your staking machine turning it off, any other devices plugged in to the battery powered plugs (such as a modem) will stay on for 300 seconds at which point the entire UPS will turn off. When power is restored the staking machine will automatically turn on, sync to the network, and resume.
+With the following in place, a power outage will drain the UPS to 35%. At that point, a shutdown signal will be sent to your staking machine, turning it off. Any other devices plugged into the battery-powered outlets, such as a modem, will stay on for 300 additional seconds, after which the entire UPS will turn off. When power is restored, the staking machine will automatically turn on, sync to the network, and resume operation.
 
 Trevorn.eth
