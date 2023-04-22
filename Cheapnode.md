@@ -1,5 +1,5 @@
 # Run a Rocketpool node on the cheap by going used. $300USD #
-With LEB8's around here I thought I'd write up a cheap solution for home staking hardware. I’ll go over price and performance numbers. Great for those on a budget, or for people looking for a testnet/fallback machine.
+With LEB8's here I thought I'd write up a cheap solution for home staking hardware. I’ll go over price and performance numbers. Great for those on a budget, or for people looking for a testnet/fallback machine.
 
 
 First I picked up this used MiniPC from Ebay:
